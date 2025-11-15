@@ -1,0 +1,14 @@
+{
+  "name": "nodejs-demo-app",
+  "version": "1.0.0",
+  "description": "Demo Node.js app for CI/CD pipeline using GitHub Actions and Docker",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
